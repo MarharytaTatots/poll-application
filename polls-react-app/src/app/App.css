@@ -1,0 +1,49 @@
+.app-content{
+    margin-top: 64px;
+}
+
+.banner3{
+    width: 100%;
+    height: 90vh;
+    position: relative;
+    text-align: center;
+    background-image: url("https://gw.alipayobjects.com/zos/rmsportal/xTPkCNNLOnTEbGgVZOpE.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.banner3-slogan{
+    font-size: 80px;
+    line-height: 80px;
+    text-indent: 2px;
+    font-weight: 600;
+    margin: 26px auto 38px;
+    margin-top: 130px;
+    margin-right: auto;
+    margin-bottom: 38px;
+    margin-left: auto;
+    overflow: hidden;
+}
+
+.banner3-text-wrapper{
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    left: 0;
+    right: 0;
+    color:#ffffffff;
+    max-width: 845px;
+    height: 100%;
+    width: 80%;
+    font-size: 20px;
+    line-height: 2px;
+    font-weight: 400;
+}
+
+.texty span{
+    display: inline-block;
+    white-space: pre-wrap;
+}
